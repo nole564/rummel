@@ -1,0 +1,32 @@
+h1, h2, h3, h4,h5,h6 {
+font-family: Montserrat,serif;
+}
+
+h5 {
+font-size:1.5em
+}
+
+.card h5 {
+font-size:1em;
+}
+
+.service-selector-cards .card .card-link:not(.card-images) {
+padding-bottom:0px;
+}
+
+.service-selector-cards .card {
+background: #546154 !important;
+border: none;
+}
+
+.container {
+margin-left:0px;
+}
+
+.card-body {
+color:#fff;
+}
+
+hr {
+border-top:2px solid #546154;
+}
